@@ -1,0 +1,6 @@
+# 生成代码由 protoc / grpcio-tools 1.85.1 产出，运行时版本不能低于生成版本
+grpcio>=1.85.1,<2.0
+protobuf>=7.35.1,<8.0
+fastapi>=0.110,<1.0
+uvicorn>=0.29,<1.0
+qrcode[pil]>=7.4
